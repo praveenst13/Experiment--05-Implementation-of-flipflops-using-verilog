@@ -197,7 +197,7 @@ endmodule
 ### SR FLIPFLOP
 ![Screenshot 2023-05-25 105846](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/85bc73e8-0da7-4466-bfd5-47b2d50cc552)
 ### JK FLIPFLOP
-![image](https://user-images.githubusercontent.com/36288975/167910378-d2d984a7-2815-4d17-8c41-ee4bdf59ec24.png)
+![image](https://github.com/NathinR/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118679646/6ad31ca6-c6ae-45fe-bb65-e99fe1304a46)
 ###  D FLIPFLOP
 ![Screenshot 2023-05-25 114213](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/26228eb3-3075-4cd6-8ba8-96d20b2a3af6)
 ###   T FLIPFLOP
