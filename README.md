@@ -147,3 +147,4 @@ RegisterNumber:
 
 
 ### RESULTS 
+All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
