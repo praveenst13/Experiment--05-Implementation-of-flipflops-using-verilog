@@ -119,13 +119,15 @@ RegisterNumber:
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
+### SR FLIPFLOP
+![img](https://user-images.githubusercontent.com/118679646/239150708-5a2dc494-c479-40b0-b9f6-47dc433f0943.png)
+###  JK FLIPFLOP
+![Screenshot 2023-05-25 111231](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/ded7f0d6-ff4e-4785-83d1-3f833fd52305)
+### D FLIPFLOP
 
-
-
-
-
-
-
+![Screenshot 2023-05-25 113912](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/68b33d4b-a601-4d8a-baa1-fc927771a2d9)
+### T FLIPFLOP
+![Screenshot 2023-05-25 114524](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/815d2a33-814c-4a54-93c8-0b01d12bd9a7)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
@@ -133,7 +135,14 @@ RegisterNumber:
 
 
 
-
+### SR FLIPFLOP
+![Screenshot 2023-05-25 105846](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/85bc73e8-0da7-4466-bfd5-47b2d50cc552)
+### JK FLIPFLOP
+![Screenshot 2023-05-25 113107](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/30e7e242-9d67-4fac-a64e-21e4113d3142)
+###  D FLIPFLOP
+![Screenshot 2023-05-25 114213](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/26228eb3-3075-4cd6-8ba8-96d20b2a3af6)
+###   T FLIPFLOP
+![Screenshot 2023-05-25 115138](https://github.com/praveenst13/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118787793/ecae31e1-5fb7-4f70-bf85-d4effffc8492)
 
 
 
